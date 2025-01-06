@@ -42,7 +42,7 @@ func main() {
 
 <p align="center"><strong style="font-size: 25px;">Contacts</strong></p>
 <p align="center">
-  <a href="mailto:youremail@example.com" style="text-decoration: none;">
+  <a href="mailto:eraldcaka47@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/EraldCaka" style="text-decoration: none;">
