@@ -5,7 +5,7 @@
 <h1 align="center">Erald Caka</h1>
 
 <p align="center">
-  <em>Software Engineer |  IoT  Envineer | Distributed Systems Engineer</em>
+  <em>Software Engineer |  IoT  Engineer | Distributed Systems Engineer</em>
 </p>
 
 <p align="center">
