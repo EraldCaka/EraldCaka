@@ -19,25 +19,8 @@
 <p align="center"><strong style="font-size: 25px;">About me</strong></p>
 
 I am Erald, a backend-focused **Software Engineer** with expertise in **Golang**. I specialize in designing and building **scalable event-driven architectures**, **microservices**, and **IoT solutions**.
+Passionate about solving complex problems, I enjoy exploring **IoT**, **Web3**, and **blockchain** while continuously learning and sharing knowledge.
 
-
-```go
-package main
-
-func main() {
-	aboutMe := AboutMe{
-		Name:       "Erald",
-		Company:    "Indra",
-		Location:   "Vancouver, Canada",
-		Editors:    {"Goland", "Zed", "Vim", "VsCode"},
-		Languages:  {"Go", "Java", "Typescript", "Python", "Rust", "Lua", "PHP", "C#"},
-		Frameworks: {"Fiber", "Gin", "Echo", "Watermill", "React", "NodeJS", "Java Spring Boot", "FastApi"},
-		Tools:      {"Docker", "Kubernetes", "AWS", "Kafka", "RabbitMQ", "MQTT"},
-		Interests:  {"Distributed Systems", "Web3 Development", "IoT Development", "Backend Development"},
-	}
-}
-
-```
 
 
 <p align="center"><strong style="font-size: 25px;">Contacts</strong></p>
