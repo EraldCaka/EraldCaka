@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="./util/banner-go.png" alt="Golang Banner" width="100%"/>
 </p>
@@ -7,7 +8,9 @@
 <p align="center">
   <em>Software Engineer |  IoT  Engineer | Distributed Systems Engineer</em>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EraldCaka&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views Counter"/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-563D7C?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka"/>
