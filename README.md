@@ -17,8 +17,13 @@
   <img src="https://img.shields.io/badge/Apache%20Kafka-563D7C?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
   <img src="https://img.shields.io/badge/MQTT-FFCC00?style=for-the-badge&logo=mqtt&logoColor=black" alt="MQTT"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/CI/CD-008000?style=for-the-badge&logo=gitlab&logoColor=white" alt="CI/CD"/> <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+	<img src="https://img.shields.io/badge/CI/CD-008000?style=for-the-badge&logo=gitlab&logoColor=white" alt="CI/CD"/> 
+	<img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell"/>
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/Raspberry PI-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="IoT"/>
+<img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" alt="Blockchain"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
 
 <p align="center"><strong style="font-size: 25px;">About me</strong></p>
 
