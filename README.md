@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/Raspberry PI-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="IoT"/>
 <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" alt="Blockchain"/>
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+<img src="https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=00FFA3" alt="Solana"/>
 
 <p align="center"><strong style="font-size: 25px;">About me</strong></p>
 
