@@ -28,11 +28,12 @@
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
 <img src="https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=00FFA3" alt="Solana"/>
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
 <p align="center"><strong style="font-size: 25px;">About me</strong></p>
 
 I am Erald, a backend-focused **Software Engineer** with expertise in **Golang**. I specialize in designing and building **scalable event-driven architectures**, **microservices**, and **IoT solutions**.
-Passionate about solving complex problems, I enjoy exploring **IoT**, **Web3**, and **blockchain** while continuously learning and sharing knowledge.
+Passionate about solving complex problems, I enjoy exploring **IoT**, **Distributed Systems**, and **Highly Available Systems** while continuously learning and sharing knowledge.
 
 
 
